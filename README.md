@@ -4,15 +4,15 @@ In this lab you will create your very own person class. Basically you will have 
 
 ## Create the field variables for the following attributes:
 
-* Name;
-* Age;
-* Sex;
-* Height;
-* Weight;
-* Social security number;
-* Address;
-* Phone number;
-* Date of birth;
+* Name- private string name;
+* Age- private int age;
+* Sex- private string sex; 
+* Height- private double height;
+* Weight-private double weight;
+* Social security number- private int social;
+* Address- private string address;
+* Phone number- private int phoneNum;
+* Date of birth- private int dob;
 
 ## Create a constructor to initialize an object. The constructor should ask the user for the person's first and last name. 
 
